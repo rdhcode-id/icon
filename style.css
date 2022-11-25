@@ -1,0 +1,210 @@
+@font-face {
+  font-family: 'rdhcode';
+  src:  url('fonts/rdhcode.eot?iydu57');
+  src:  url('fonts/rdhcode.eot?iydu57#iefix') format('embedded-opentype'),
+    url('fonts/rdhcode.ttf?iydu57') format('truetype'),
+    url('fonts/rdhcode.woff?iydu57') format('woff'),
+    url('fonts/rdhcode.svg?iydu57#rdhcode') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'rdhcode' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-rdh_amplop:before {
+  content: "\e900";
+}
+.icon-rdh_bel:before {
+  content: "\e901";
+}
+.icon-rdh_bintang:before {
+  content: "\e902";
+}
+.icon-rdh_bxbtm:before {
+  content: "\e903";
+}
+.icon-rdh_bxcatatan:before {
+  content: "\e904";
+}
+.icon-rdh_bxcompas:before {
+  content: "\e905";
+}
+.icon-rdh_bxdompet:before {
+  content: "\e906";
+}
+.icon-rdh_bxkunci:before {
+  content: "\e907";
+}
+.icon-rdh_bxleft:before {
+  content: "\e908";
+}
+.icon-rdh_bxmenu:before {
+  content: "\e909";
+}
+.icon-rdh_bxnwcatatan:before {
+  content: "\e90a";
+}
+.icon-rdh_bxpencil:before {
+  content: "\e90b";
+}
+.icon-rdh_bxright:before {
+  content: "\e90c";
+}
+.icon-rdh_bxseru:before {
+  content: "\e90d";
+}
+.icon-rdh_bxtambah:before {
+  content: "\e90e";
+}
+.icon-rdh_bxtanggal:before {
+  content: "\e90f";
+}
+.icon-rdh_bxtitik:before {
+  content: "\e910";
+}
+.icon-rdh_bxtop:before {
+  content: "\e911";
+}
+.icon-rdh_bxx:before {
+  content: "\e912";
+}
+.icon-rdh_camera:before {
+  content: "\e913";
+}
+.icon-rdh_fb:before {
+  content: "\e914";
+}
+.icon-rdh_filter:before {
+  content: "\e915";
+}
+.icon-rdh_folder:before {
+  content: "\e916";
+}
+.icon-rdh_garisatas:before {
+  content: "\e917";
+}
+.icon-rdh_garisbawah:before {
+  content: "\e918";
+}
+.icon-rdh_gariskanan:before {
+  content: "\e919";
+}
+.icon-rdh_gariskiri:before {
+  content: "\e91a";
+}
+.icon-rdh_hati:before {
+  content: "\e91b";
+}
+.icon-rdh_home:before {
+  content: "\e91c";
+}
+.icon-rdh_ig:before {
+  content: "\e91d";
+}
+.icon-rdh_img:before {
+  content: "\e91e";
+}
+.icon-rdh_jam:before {
+  content: "\e91f";
+}
+.icon-rdh_kirim:before {
+  content: "\e920";
+}
+.icon-rdh_kupon:before {
+  content: "\e921";
+}
+.icon-rdh_kuponstart:before {
+  content: "\e922";
+}
+.icon-rdh_malam:before {
+  content: "\e923";
+}
+.icon-rdh_menulis:before {
+  content: "\e924";
+}
+.icon-rdh_mic:before {
+  content: "\e925";
+}
+.icon-rdh_orang:before {
+  content: "\e926";
+}
+.icon-rdh_panahatas:before {
+  content: "\e927";
+}
+.icon-rdh_panahbawah:before {
+  content: "\e928";
+}
+.icon-rdh_panahkanan:before {
+  content: "\e929";
+}
+.icon-rdh_panahkiri:before {
+  content: "\e92a";
+}
+.icon-rdh_pencarian:before {
+  content: "\e92b";
+}
+.icon-rdh_pengaturan:before {
+  content: "\e92c";
+}
+.icon-rdh_pesan:before {
+  content: "\e92d";
+}
+.icon-rdh_pinmap:before {
+  content: "\e92e";
+}
+.icon-rdh_potongan:before {
+  content: "\e92f";
+}
+.icon-rdh_siang:before {
+  content: "\e930";
+}
+.icon-rdh_simpan:before {
+  content: "\e931";
+}
+.icon-rdh_stikgame:before {
+  content: "\e932";
+}
+.icon-rdh_tasbelanja:before {
+  content: "\e933";
+}
+.icon-rdh_taskantor:before {
+  content: "\e934";
+}
+.icon-rdh_tmgx:before {
+  content: "\e935";
+}
+.icon-rdh_tongsampah:before {
+  content: "\e936";
+}
+.icon-rdh_trolibelanja:before {
+  content: "\e937";
+}
+.icon-rdh_usapatas:before {
+  content: "\e938";
+}
+.icon-rdh_usapbawah:before {
+  content: "\e939";
+}
+.icon-rdh_usapkanan:before {
+  content: "\e93a";
+}
+.icon-rdh_usapkiri:before {
+  content: "\e93b";
+}
+.icon-rdh_yt:before {
+  content: "\e93c";
+}
